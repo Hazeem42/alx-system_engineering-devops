@@ -1,2 +1,1 @@
-#!/bin/bash
-usage /n
+My project
