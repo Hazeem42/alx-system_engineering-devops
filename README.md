@@ -1,1 +1,2 @@
-#usage
+#!/bin/bash
+usage /n
