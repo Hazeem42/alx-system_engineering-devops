@@ -1,1 +1,2 @@
-My project
+#!/bin/bash
+first shell basics
