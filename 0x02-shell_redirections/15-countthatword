@@ -1,0 +1,3 @@
+#!bin/bash
+grep -c -i "bin" /et \\\\\\c/passwd
+
